@@ -1,0 +1,31 @@
+body{
+    background-color:#d2e1e1;
+    position: relative;
+    vertical-align: bottom;
+}
+
+#qr-img{
+    height: 200px;
+    width: 200px;
+    padding: 1.1em 1.1em 0em;
+}
+
+.content{
+    border-radius: 29px;
+    position: absolute;
+    top: 180px;
+    left: 550px;
+    height: 394px;
+    width: 250px;
+    text-align: center;
+    background-color: white;
+ 
+}
+#para{
+     padding: 0px;
+}
+
+.attribution a:hover{
+    color: white;
+    background-color: rgb(8, 127, 143);
+}
